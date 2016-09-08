@@ -3,6 +3,6 @@ Introductory Python Tutorials provided by NorthWest Florida Python/Perl  Users G
 
 Find on 
 - Twitter (@nwfpug)
-- Blooger (nwf.blogger.com)
+- Blooger (nwfpug.blogger.com)
 - gmail (nwfpug.gmail.com)
 - G+
