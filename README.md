@@ -4,5 +4,5 @@ Introductory Python Tutorials provided by NorthWest Florida Python/Perl  Users G
 Find on 
 - Twitter (@nwfpug)
 - Blooger (nwfpug.blogger.com)
-- gmail (nwfpug.gmail.com)
-- G+
+- gmail <nwfpug@gmail.com>
+- G+ [click here](https://plus.google.com/u/0/111818910909600186075)
