@@ -1,9 +1,9 @@
 # Python Primer
 Introductory Python Tutorials provided by NorthWest Florida Python/Perl  Users Group (NWFPUG). This is the first of a series of Python tuturials that span from the novice to the advanced levels. Vidcasts accompany each notebook at each level will be  available on our youtube channel. 
 
-Checkout our [Github page] (https://nwfpug.github.io/python-primer/)
+### Checkout our [Github page] (https://nwfpug.github.io/python-primer/)
 
-Find us also find ius on: 
+Find us also on: 
 - [Blogger](https://nwfpug.blogspot.com)
 - gmail: <nwfpug@gmail.com>
 - [Google+](https://plus.google.com/u/0/111818910909600186075)
